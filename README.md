@@ -83,8 +83,9 @@ Happy coding and learning! 🚀
 
 ## 📫 How to reach me
 
-- LinkedIn: [Linked IN]([https://yourwebsite.com](https://www.linkedin.com/in/praveen-acharya-226a22125/))
-- Github: [Your LinkedIn Profile](https://github.com/PraviinPravii)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/praveen-acharya-226a22125/)
+
+- Github: [GitHub Profile](https://github.com/PraviinPravii)
 
 ## ❤️ Support Me
 
