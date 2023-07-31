@@ -78,7 +78,7 @@ Happy coding and learning! 🚀
 ## 💻 Coding Profiles
 
 - [HackerRank](https://www.hackerrank.com/Pravii2253?hr_r=1)
-- [LeetCode](https://leetcode.com/praviin/s)
+- [LeetCode](https://leetcode.com/praviin/)
 - [Scaler](https://www.scaler.com/academy/profile/3e75f8c137bf/)
 
 ## 📫 How to reach me
